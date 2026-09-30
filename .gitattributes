@@ -1,0 +1,5 @@
+# Ignore generated web JS from GitHub Linguist language statistics
+web/*.js linguist-vendored
+web/**/*.js linguist-vendored
+*.js linguist-vendored
+build/** linguist-vendored

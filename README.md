@@ -19,25 +19,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [🌟 Project Vision & Overview](#-project-vision--overview)
-- [📸 Visual Showcase & Screenshots](#-visual-showcase--screenshots)
-- [🔬 Core Feature Breakdown](#-core-feature-breakdown)
-  - [1. 🧘 Guided Meditation Hub](#1--guided-meditation-hub)
-  - [2. 🫁 Interactive Breathing Visualizer](#2--interactive-breathing-visualizer)
-  - [3. 🌙 Sleep Soundscapes & Fade Timer](#3--sleep-soundscapes--fade-timer)
-  - [4. 🔥 Streak Analytics & Gamified Badges](#4--streak-analytics--gamified-badges)
-  - [5. 🎨 Scandinavian Material 3 Design System](#5--scandinavian-material-3-design-system)
-- [⚡ Technical Architecture & Engineering Deep-Dive](#-technical-architecture--engineering-deep-dive)
-  - [📁 Directory & Module Structure](#-directory--module-structure)
-  - [🔊 Audio Engine & Virtual Timer Specifications](#-audio-engine--virtual-timer-specifications)
-  - [💾 Persistence & State Management](#-persistence--state-management)
-- [🛠️ Setup, Installation & Deployment](#️-setup-installation--deployment)
-- [📄 License & Credits](#-license--credits)
-
----
-
 ## 🌟 Project Vision & Overview
 
 **MeditateNow** is an all-in-one wellness platform crafted to help individuals manage stress, sharpen focus, cultivate self-compassion, and transition effortlessly into restorative sleep. 
@@ -203,12 +184,3 @@ flutter_meditatenow/
 
 ---
 
-## 📄 License & Credits
-
-Distributed under the **MIT License**. See `LICENSE` for more details.
-
----
-
-<p align="center">
-  Crafted with ❤️ using <strong>Pure Flutter & Dart</strong>
-</p>
